@@ -5,7 +5,7 @@ La relevancia social del proyecto se refleja en su capacidad para crear espacios
 
 Además, el proyecto reconoce la importancia de la colaboración entre el sector público, la sociedad civil y el sector privado para garantizar el éxito y la sostenibilidad a largo plazo de las intervenciones urbanas. Al alinear los intereses y recursos de diversas partes interesadas, se crea un marco para la implementación efectiva y la gestión adecuada de los parques urbanizados, maximizando su impacto positivo en la comunidad.
 
-##Innovación
+## Innovación
 La principal innovación de este proyecto radica en su enfoque único de utilizar Minecraft como una herramienta de participación comunitaria en colaboración con el Gobierno del Estado de Yucatán. Inspirado en iniciativas como Block by Block, respaldadas por la ONU, este proyecto aprovecha el potencial de la tecnología para involucrar a la comunidad en la planificación y el diseño de espacios públicos.
 
 La innovación tecnológica del proyecto también se refleja en su capacidad para crear un entorno virtual colaborativo donde los niños pueden compartir ideas, colaborar en el diseño y experimentar con diferentes conceptos y soluciones. Al proporcionar una plataforma interactiva y accesible, el proyecto fomenta la creatividad, el trabajo en equipo y el pensamiento crítico entre los participantes.
