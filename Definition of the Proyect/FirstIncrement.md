@@ -43,8 +43,11 @@ La integración de "Block by Block" y el rediseño de la ciudad de Tirol represe
 * Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes.
 * Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa.
 * Coherencia y Consistencia: La interfaz de usuario debe ser coherente y consistente en todo el sistema, garantizando que los elementos de diseño, como los botones y menús, se comporten de manera predecible y se presenten de manera uniforme en todas las pantallas.
-Lagunas de investigación identificadas
-Los proyectos en Minecraft desarrollados hasta la fecha muestran el potencial de este entorno de juego. La investigación presentada  se basa en experiencias anteriores e identifica tres lagunas de investigación que se abordaron en las fuentes. **
-**. En síntesis, las tres lagunas de investigación identificadas para la investigación presentada en este documento fueron: (1) la participación de niños mayores y pequeños en la planificación urbana; (2) los niños como codiseñadores en el proceso de planificación; (3) la participación de los niños en las zonas rurales.
+
+## Lagunas de investigación identificadas
+
+Los proyectos en Minecraft desarrollados hasta la fecha muestran el potencial de este entorno de juego. La investigación presentada  se basa en experiencias anteriores e identifica tres lagunas de investigación que se abordaron en las fuentes.
+
+En síntesis, las tres lagunas de investigación identificadas para la investigación presentada en este documento fueron: (1) la participación de niños mayores y pequeños en la planificación urbana; (2) los niños como codiseñadores en el proceso de planificación; (3) la participación de los niños en las zonas rurales.
 Referencias
 
