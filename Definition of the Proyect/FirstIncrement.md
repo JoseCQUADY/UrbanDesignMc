@@ -1,8 +1,6 @@
 # Urbanización usando Minecraft
 El proyecto de construcción de parques urbanizados en Minecraft, en colaboración con el Gobierno del Estado de Yucatán, encuentra su relevancia social en su capacidad para abordar las necesidades de la comunidad y promover la participación ciudadana en la planificación urbana. Inspirado en iniciativas como Block by Block, respaldadas por la ONU, este proyecto adopta un enfoque innovador y participativo para el desarrollo de espacios públicos.
-
 La relevancia social del proyecto se refleja en su capacidad para crear espacios de convivencia inclusivos y accesibles que promuevan la cohesión social y el bienestar comunitario. Al permitir que los niños participen en el proceso de diseño y construcción de los parques urbanizados, se les brinda la oportunidad de expresar sus ideas y contribuir a la creación de entornos seguros y estimulantes para el juego y la recreación.
-
 Además, el proyecto reconoce la importancia de la colaboración entre el sector público, la sociedad civil y el sector privado para garantizar el éxito y la sostenibilidad a largo plazo de las intervenciones urbanas. Al alinear los intereses y recursos de diversas partes interesadas, se crea un marco para la implementación efectiva y la gestión adecuada de los parques urbanizados, maximizando su impacto positivo en la comunidad.
 
 ## Innovación
