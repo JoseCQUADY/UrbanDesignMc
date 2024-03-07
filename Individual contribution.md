@@ -23,8 +23,8 @@ Metrics to determine relevance, according to each activity:
 | Research instruments                        |  2  |       |         |       |        |     X     |
 | Schedule activities, task/activities assignment, artifacts, products                       |  2  |       |         |       |   X     |          |
 | Make a clean repository using github       |  1 |       |         |       |    X    |          |
-| **Relevance average:**      | ****  |        |        |          |          |          |
-| **Performance average:**    | ****  |        |        |          |          |          |
+| **Relevance average:**      | 2.125  |        |        |          |          |          |
+| **Performance average:**    | 25 |        |        |          |          |          |
 
 
 #### DAVID MUÑOZ
