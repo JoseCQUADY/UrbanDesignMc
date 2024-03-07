@@ -35,8 +35,7 @@ Asimismo, esta integración facilita el aprendizaje interactivo y experiencial s
 
 ### No funcionales
 
-* Accesibilidad y usabilidad intuitiva para niños de diferentes edades y habilidades.
-* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños.
+* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños. Evaluación en base a observaciones de manera total en talleres aplicados acerca del uso del juego.
 * Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes.
 * Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa.
 
