@@ -35,9 +35,9 @@ Asimismo, esta integración facilita el aprendizaje interactivo y experiencial s
 
 ### No funcionales
 
-* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños. Evaluación en base a observaciones de manera total en talleres aplicados acerca del uso del juego.
-* Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes.
-* Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa.
+* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños. El sistema de medición en base a la evaluación de observaciones de talleres aplicados acerca del uso del juego.
+* Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes. La metrica elegida es en base a encuesta de satisfacción en grado de gusto o disgusto.
+* Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa. El sistema de medición en base a en una hora la cantidad de bloques colocadas.
 
 ## Lagunas de investigación identificadas
 
