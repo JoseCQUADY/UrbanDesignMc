@@ -73,9 +73,9 @@ Metrics to determine relevance, according to each activity:
 | Describe the innovation of the project      |  3  |       |         |       |        |      x   |
 | Describe the Feasibility of the project    |  2  |       |         |    x   |        |          |
 | Describe the social relevance using the references given |  3  |       |         |       |     x   |          |
-| Describe the HCI challenges                 |  1  |       |         |    x   |        |          |
+| Describe the HCI challenges                 |  1  |       |         |      |    x    |          |
 | Research instruments                        |  2  |       |         |       |        |       x   |
 | Schedule activities, task/activities assignment, artifacts, products                       |  2  |       |         |    x   |        |          |
 | Make a clean repository using github       |  1 |       |         |       |  x      |          |
 | **Relevance average:**      | 2.125 |        |        |          |          |          |
-| **Performance average:**    | 4  |        |        |          |          |          |
+| **Performance average:**    | 4.125 |        |        |          |          |          |
