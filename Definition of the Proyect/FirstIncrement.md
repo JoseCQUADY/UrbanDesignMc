@@ -39,7 +39,6 @@ Asimismo, esta integración facilita el aprendizaje interactivo y experiencial s
 * Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños.
 * Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes.
 * Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa.
-* Coherencia y Consistencia: La interfaz de usuario debe ser coherente y consistente en todo el sistema, garantizando que los elementos de diseño, como los botones y menús, se comporten de manera predecible y se presenten de manera uniforme en todas las pantallas.
 
 ## Lagunas de investigación identificadas
 
