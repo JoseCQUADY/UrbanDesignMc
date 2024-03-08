@@ -36,7 +36,7 @@ Asimismo, esta integración facilita el aprendizaje interactivo y experiencial s
 
 ### No funcionales
 
-* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños. El sistema de medición disponible, son observaciones realizadas en el primer experimento de "contextualización de la herramienta Minecraft".
+* Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños. El sistema de medición disponible, son observaciones realizadas en el primer experimento de "contextualización de la herramienta Minecraft" (Anexado en Definition of the Project como "Primer experimento").
 * Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes. El sistema de medición es a través de encuestas de satisfacción (encuestas anexadas en "Definition, of the project" como "Encuestas mixtas")
 * Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa. El sistema de medición es en base a la metodología "block by block" : En una hora, la cantidad de bloques colocados en la actividad propuesta.
 
