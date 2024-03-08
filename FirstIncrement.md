@@ -28,6 +28,7 @@ La integración de "Block by Block" y el rediseño de Tirol ofrece una serie de 
 Asimismo, esta integración facilita el aprendizaje interactivo y experiencial sobre planificación urbana y tecnología, permitiendo que los participantes adquieran conocimientos prácticos y habilidades relevantes para el siglo XXI. Al combinar métodos tradicionales de participación ciudadana con herramientas digitales y tecnología de juegos, podemos crear un entorno urbano más inclusivo, accesible y centrado en las personas, que mejore la calidad de vida de todos los ciudadanos.
 
 ## Requisitos 
+
 ### Funcionales 
 * Proporcionar feedback contextual y relevante para guiar a los usuarios a través de las diferentes tareas y actividades en Minecraft, ayudándoles a entender cómo interactuar con el juego de manera efectiva.
 * Apoyo a la Exploración y Experimentación: El sistema debe fomentar la exploración y experimentación de los usuarios, proporcionando herramientas y recursos que les permitan probar nuevas ideas y soluciones de diseño de manera segura y sin miedo al fracaso.
@@ -37,7 +38,7 @@ Asimismo, esta integración facilita el aprendizaje interactivo y experiencial s
 
 * Accesibilidad y usabilidad intuitiva para niños de diferentes edades y habilidades.
 * Compromiso: Variedad de actividades recreativas que sean atractivas y estimulantes para los niños.
-* Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes.
+* Diversión y Motivación: El sistema debe ser divertido y motivador para los niños, fomentando su participación activa y su interés en el diseño urbano a través de experiencias de juego atractivas y gratificantes. (Encuesta anexada en "Definition, of the project" como "Encuestas mixtas")
 * Inmersión y Enganche: El sistema debe ofrecer una experiencia inmersiva y envolvente que mantenga el interés y la atención de los usuarios, utilizando técnicas de diseño de juego que promuevan el enganche y la participación activa.
 
 ## Lagunas de investigación identificadas
