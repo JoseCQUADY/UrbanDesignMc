@@ -1,6 +1,7 @@
 # Urban Design 
 
 Welcome to the team repository! If you want to navigate between deliveries, simply switch branches.
+If you want to know more about the project you can switch to the branch "First-Increment".
 ## Our team:
 ### Carlos Genaro Cutz Anguas
 ### José de Jesús Chí Quintal 
