@@ -24,7 +24,7 @@ Metrics to determine relevance, according to each activity:
 | Schedule activities, task/activities assignment, artifacts, products                       |  2  |       |         |       |   X     |          |
 | Make a clean repository using github       |  1 |       |         |       |    X    |          |
 | **Relevance average:**      | 2.125  |        |        |          |          |          |
-| **Performance average:**    | 4.125 |        |        |          |          |          |
+| **Performance average:**    | 4.25 |        |        |          |          |          |
 
 
 #### DAVID MUÑOZ
@@ -42,7 +42,7 @@ Metrics to determine relevance, according to each activity:
 | Schedule activities, task/activities assignment, artifacts, products                       |  2  |       |         |   X    |        |          |
 | Make a clean repository using github       |  1 |       |         |       |   X     |          |
 | **Relevance average:**      | 2.125  |        |        |          |          |          |
-| **Performance average:**    | 4.25  |        |        |          |          |          |
+| **Performance average:**    | 4.125  |        |        |          |          |          |
 
 
 #### GENARO CUTZ ANGUAS
