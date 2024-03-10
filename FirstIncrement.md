@@ -1,3 +1,5 @@
+![image](https://github.com/JoseCQUADY/UrbanDesignMc/assets/90482168/2bad300a-2292-4a8f-885f-f9a75da8d0fa)
+
 # Urbanización usando Minecraft
 El proyecto de construcción de parques urbanizados en Minecraft, en colaboración con el Gobierno del Estado de Yucatán, encuentra su relevancia social en su capacidad para abordar las necesidades de la comunidad y promover la participación ciudadana en la planificación urbana. Inspirado en iniciativas como Block by Block, respaldadas por la ONU, este proyecto adopta un enfoque innovador y participativo para el desarrollo de espacios públicos.
 
@@ -13,6 +15,8 @@ Asimismo, la integración de esta metodología en el proyecto de construcción d
 
 Se destaca que la emergencia de movimientos locales como Karmaland Mérida demuestra el interés y la capacidad de la comunidad para respaldar proyectos que promueven la participación comunitaria y el desarrollo urbano sostenible. Este movimiento, fue concebido durante la pandemia por un grupo de estudiantes de arquitectura y demuestra cómo la virtualidad puede ser aprovechada para llevar la participación ciudadana a nuevos niveles. Su experiencia en la organización de eventos virtuales respaldados por autoridades gubernamentales y patrocinadores podría proporcionar ideas valiosas y recursos adicionales para el proyecto de construcción de parques urbanizados en Minecraft.
 
+![image](https://github.com/JoseCQUADY/UrbanDesignMc/assets/90482168/9493054b-6ac4-4fd9-8650-78d3648e3055)
+
 ## Justificación
 
 En el corazón de cualquier gobierno local, la búsqueda de soluciones innovadoras y la promoción de la participación ciudadana son pilares fundamentales para el desarrollo urbano sostenible. En este contexto, la integración del exitoso caso de estudio "Block by Block" con el proyecto de rediseño de la ciudad de Tirol emerge como una estrategia prometedora para nuestro ayuntamiento, ofreciendo una oportunidad única para empoderar a los ciudadanos y transformar nuestro entorno urbano de manera colaborativa y creativa.
@@ -26,6 +30,9 @@ El objetivo de Block by Block, una iniciativa de Mojang, Minecraft y ONU-Hábita
 
 La integración de "Block by Block" y el rediseño de Tirol ofrece una serie de beneficios significativos para nuestro ayuntamiento. En primer lugar, promueve la participación activa de los ciudadanos en la toma de decisiones relacionadas con el desarrollo urbano, fortaleciendo así el vínculo entre el gobierno local y la comunidad. Además, fomenta la creatividad y la innovación al proporcionar un espacio para la experimentación y la colaboración en el diseño de la ciudad, lo que puede dar lugar a soluciones innovadoras y sostenibles para los desafíos urbanos actuales.
 Asimismo, esta integración facilita el aprendizaje interactivo y experiencial sobre planificación urbana y tecnología, permitiendo que los participantes adquieran conocimientos prácticos y habilidades relevantes para el siglo XXI. Al combinar métodos tradicionales de participación ciudadana con herramientas digitales y tecnología de juegos, podemos crear un entorno urbano más inclusivo, accesible y centrado en las personas, que mejore la calidad de vida de todos los ciudadanos.
+![image](https://github.com/JoseCQUADY/UrbanDesignMc/assets/90482168/8c1c917c-f86c-4ccc-b0f3-fe7d8afa910c)
+
+
 
 ## Requisitos 
 
